@@ -5,17 +5,14 @@
 
 
 <!-- Contact Icons -->
-<p align="center">
-  <a href="WWW.LINKEDIN.COM/IN/SEIF-AMR-5AB182263" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="mailto:SEIFELDINAMR862@GMAIL.COM">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="tel:01208334406">
-    <img alt="Phone" src="https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge">
-  </a>
-</p>
+
+
+| Icon | Contact |
+|------|---------|
+| <a href="https://www.linkedin.com/in/seif-amr-5ab182263" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a> | [linkedin.com/in/seif-amr-5ab182263](https://www.linkedin.com/in/seif-amr-5ab182263) |
+| <a href="mailto:seifeldinamr862@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a> | seifeldinamr862@gmail.com |
+| <a href="tel:+201208334406"><img alt="Phone" src="https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a> | +20 120 833 4406 |
+
 
 ---
 
@@ -104,5 +101,4 @@ From experimentation to deployment.
 ## 📊 GitHub Analytics
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Seifeldin-Amr&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeldin-Amr&layout=compact&theme=tokyonight" />
 </p>
