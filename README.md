@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+
 **Seifeldin-Amr/Seifeldin-Amr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
