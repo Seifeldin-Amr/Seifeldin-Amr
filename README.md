@@ -32,7 +32,6 @@ I enjoy combining AI with software engineering to create applications that integ
 ---
 
 ## 🧩 Software Engineering Focus
-Purpose-built engineering for reliability, scalability, and great UX.
 
 #### Web & Mobile
 <p>
@@ -68,7 +67,6 @@ Purpose-built engineering for reliability, scalability, and great UX.
 ---
 
 ## 🧠 AI & Machine Learning Focus
-From experimentation to deployment.
 
 #### ML / Deep Learning
 <p>
