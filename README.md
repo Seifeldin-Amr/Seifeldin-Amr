@@ -86,13 +86,12 @@ I enjoy combining AI with software engineering to create applications that integ
 
 ---
 
-## 📂 Highlight Projects
+## 📂 Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Tutoruu Mobile](https://github.com/tutoruu/mobile-app) | Cross-platform learning experience app. | Flutter, Firebase |
-| [PicoDet PyTorch](https://github.com/Seifeldin-Amr/picodet_pytorch) | Lightweight object detection experimentation. | PyTorch |
-| [Advanced OS Project](https://github.com/Seifeldin-Amr/Advanced-Operating-System-Project) | Academic exploration of scheduling & memory concepts. | Systems Concepts |
-| [Cloud Project](https://github.com/Seifeldin-Amr/Cloud-Project) | Cloud-native orchestration & infra exploration. | AWS, Docker |
+| [WheatSentinel](https://github.com/Wheat-Sentinel) | Real-time crop disease detection system for edge devices, built with a lightweight YOLO model and an interactive farmer dashboard. | Python · Ultralytics YOLO · React Native · Node.js · TypeScript · MongoDB |
+| [InterLuxe](https://github.com/Seifeldin-Amr/InterLuxe) | Construction project management app focused on the full house-building lifecycle — from planning to execution. Designed for simple, straightforward interaction between users and admins. | Flutter · Firebase |
+| [Virtual Cloud Manager](https://github.com/Seifeldin-Amr/Cloud-Project) | Tool for managing virtual disks, virtual machines, and Docker containers. Supports creating, starting, stopping, and removing VMs and containers with simple controls. | Python · Docker|
 
 ---
 
