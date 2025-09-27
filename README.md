@@ -92,6 +92,7 @@ I enjoy combining AI with software engineering to create applications that integ
 | [WheatSentinel](https://github.com/Wheat-Sentinel) | Lightweight crop disease detection system (only 7 MB) designed for both edge devices and edge nodes. Runs a YOLO-based model for real-time detection and provides an interactive farmer dashboard. | Python · Ultralytics YOLO · React Native · Node.js · TypeScript · MongoDB |
 | [InterLuxe](https://github.com/Seifeldin-Amr/InterLuxe) | Construction project management app focused on the full house-building lifecycle — from planning to execution. Designed for simple, straightforward interaction between users and admins. | Flutter · Firebase |
 | [Virtual Cloud Manager](https://github.com/Seifeldin-Amr/Cloud-Project) | Tool for managing virtual disks, virtual machines, and Docker containers. Supports creating, starting, stopping, and removing VMs and containers with simple controls. | Python · Docker|
+| [Heart Disease Application](https://github.com/Seifeldin-Amr/Heart-Disease-Project) | Developed a medical support application with a dynamic interface to help doctors classify heart disease severity. Included statistical insights, model comparison, hyperparameter tuning, and preprocessing to achieve optimal results. Deployed using ngrok. | Python · XGBoost |
 
 ---
 
